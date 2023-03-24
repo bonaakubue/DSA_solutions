@@ -5,7 +5,7 @@ that takes two integer values and returns True if n is a
  '''
 
 def multiple(n, m):
-    if n%m == 0:
+    if n % m == 0:
         return True
     return False
 
