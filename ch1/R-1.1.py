@@ -9,6 +9,6 @@ def multiple(n, m):
         return True
     return False
 
-#Testing
-result = multiple(4,2)
-print(result)
+#Testing the result
+assert multiple(4,2)
+# assert multiple(3,2) 
